@@ -14,3 +14,6 @@ docker-compose up
 ```
 
 Acesse no browser http://localhost:3000
+
+Added by Helio
+live: https://www.youtube.com/watch?v=p_v8x8MIsIA&feature=push-sd&attr_tag=9dsVYXc0cuZbHFE2%3A6
